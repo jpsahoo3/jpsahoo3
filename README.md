@@ -1,68 +1,111 @@
 # Hi, I'm Jyotiprakash Sahoo 👋
 
-💻 Backend-focused Software Developer | Cloud & Distributed Systems
-⚙️ Building scalable applications using Python, Node.js, and modern backend frameworks
-🚀 Exploring GenAI, LLM systems, and Retrieval-Augmented Generation (RAG)
+Backend Software Developer | Python, Node.js, AWS | Distributed Systems, Blockchain & Generative AI
+
+Backend Software Developer focused on building scalable backend systems, cloud-native applications, and distributed services.
+
+Experienced in Python, Node.js, AWS, and modern backend frameworks with hands-on work across industrial IoT platforms, blockchain infrastructure, and high-performance APIs.
+
+Currently exploring Generative AI systems, including LLM-powered applications and Retrieval-Augmented Generation (RAG) architectures for production-grade software systems.
+
+### Areas of Work
+
+Backend Systems • Cloud Infrastructure • Blockchain Development • Industrial IoT Platforms • Generative AI Applications
 
 ---
 
-## 👨‍💻 About Me
+# 🔎 Engineering Focus
 
-I'm a software developer with strong backend engineering experience, focused on building scalable and efficient systems. I enjoy working across cloud platforms, distributed systems, and modern backend frameworks.
-
-Currently, I'm exploring **Generative AI systems**, especially **LLM-powered applications and RAG architectures**, and integrating them into production-grade applications.
-
-I enjoy solving complex engineering problems and continuously experimenting with new technologies.
+• Backend system design and API development
+• Cloud-native application architecture
+• Distributed and scalable systems
+• Generative AI integrations (LLM + RAG)
+• IoT data ingestion and telemetry platforms
 
 ---
 
-## 🛠 Tech Stack
+# ⚙️ Technical Stack
 
-**Languages**
+## Programming Languages
 
-Python • JavaScript • Java • C • C++
+Python • C • C++ • Java • Javascript • Rust 
 
-**Backend**
+---
 
-Node.js • Express.js • Django • FastAPI • Spring Boot
+## Backend & Frameworks
 
-**Databases**
+Node.js • Express.js • Django • SpringBoot • FastAPI • CUDA
 
-MongoDB • PostgreSQL • MySQL • InfluxDB
+---
 
-**Cloud & Infrastructure**
+## Databases
+
+MongoDB • MySQL • PostgreSQL • InfluxDB • Supabase 
+
+---
+
+## Cloud Platforms
 
 AWS EC2 • AWS S3 • AWS Lambda • Azure IoT
 
-**Platforms**
+---
 
-Linux • Ubuntu • Raspberry Pi
+## Platforms / Operating Systems
+
+Linux • Windows • Ubuntu • Raspberry Pi 
 
 ---
 
-## 🚀 Current Focus
+## Development Tools
 
-* Building production-grade backend systems
-* Exploring **LLM + RAG architectures**
-* Cloud-native backend services
-* Distributed system design
+VS Code • IntelliJ • Postman • JIRA • Git • Eclipse • Grafana
 
 ---
 
-## 📂 Featured Projects
+## AI Tools & Developer Assistants
 
-Here are some of the projects I'm most proud of:
+ChatGPT • Gemini • Windsurf • DeepSeek • GitHub Copilot • Claude
 
-🔹 Backend systems and APIs
-🔹 AI / LLM experimentation projects
-🔹 Cloud-native applications
-🔹 System design and infrastructure projects
-
-*(Pinned repositories below)*
 
 ---
 
-## 📈 GitHub Stats
+# 📜 Certifications
+
+• AWS Services for Solutions Architect Associate
+• Learn Complete Python in Simple Way
+• MongoDB Basics — MongoDB University
+• DevOps Fundamentals
+• Master in Microsoft Power BI Desktop and Service
+
+---
+
+# 🏆 Achievements
+
+⭐ HackerRank **5 Star in Python**
+
+
+---
+
+# 🚀 Current Technical Exploration
+
+• Generative AI applications
+• Retrieval-Augmented Generation (RAG) architectures
+• Vector databases and embeddings
+• AI-powered backend services
+• Cloud-native microservices
+
+---
+
+# 🧠 Engineering Principles
+
+• Build scalable and maintainable backend systems
+• Follow clean architecture and modular design patterns
+• Focus on reliability, performance, and observability
+• Continuously learn and explore emerging technologies
+
+---
+
+# 📊 GitHub Activity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsahoo3\&show_icons=true)
 
@@ -70,12 +113,13 @@ Here are some of the projects I'm most proud of:
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/sahoojyotiprakash
-GitHub: https://github.com/jpsahoo3
-Email: [jpsahoo3@gmail.com](mailto:jpsahoo3@gmail.com)
+LinkedIn
+https://www.linkedin.com/in/sahoojyotiprakash
 
----
+GitHub
+https://github.com/jpsahoo3
 
-⭐ Always open to collaborating on interesting backend or AI projects.
+Email
+[jpsahoo3@gmail.com](mailto:jpsahoo3@gmail.com)
