@@ -77,7 +77,7 @@ ChatGPT • Gemini • Windsurf • DeepSeek • GitHub Copilot • Claude
 * Continuously learn and explore emerging technologies
 
 ---
-
+<!-- This content will not appear in the rendered README
 ## 📊 GitHub Activity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsahoo3\&show_icons=true)
@@ -85,6 +85,7 @@ ChatGPT • Gemini • Windsurf • DeepSeek • GitHub Copilot • Claude
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsahoo3\&layout=compact)
 
 ---
+-->
 
 ## 🌐 Connect With Me
 
